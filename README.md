@@ -1,11 +1,11 @@
-### Hi there, I'm Jason 👋
+### Hi there, I'm Jason. 👋
 
-## I'm a Software Developer looking for a Software Engineering position
+## I'm a Software Developer looking for a Software Engineering position.
 
-- 🔭 I’m currently working on my B.S. Computer Science
-- 🌱 I’m currently learning Machine Learning and its applications
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Chess ♟️
+- 🔭 I’m currently working on my B.S. Computer Science.
+- 🌱 I’m currently learning Machine Learning and its applications.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to play Chess. ♟️
 
 ### Connect with me:
 
