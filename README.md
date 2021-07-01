@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason. 👋
 
-## I'm a Software Developer looking for a Software Engineering position.
+## I'm a Software Developer looking for a Software/Cybersecurity Engineer position.
 
 - 🔭 I’m currently working on my B.S. Computer Science.
 - 🌱 I’m currently learning Machine Learning and its applications.
