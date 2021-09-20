@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my B.S. Computer Science.
 - 🌱 I’m currently learning Machine Learning and its applications.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to play Chess. ♞
 
 ### Connect with me:
