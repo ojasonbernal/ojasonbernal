@@ -3,7 +3,7 @@
 ## I'm a Software Engineer seeking a full-time position.
 
 - 🔭 I graduated with my B.S. Computer Science.
-- 🌱 I’m am interested in Machine Learning and its applications.
+- 🌱 I’m interested in Machine Learning and its applications.
 - ⚡ Fun fact: I love to play Chess. ♞
 
 ### Connect with me:
