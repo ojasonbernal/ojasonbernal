@@ -2,9 +2,8 @@
 
 ## I'm a Software Engineer seeking a full-time position.
 
-- 🔭 I’m currently working on my B.S. Computer Science.
-- 🌱 I’m currently learning Machine Learning and its applications.
-- 🥅 2022 Goals: Contribute to Open Source projects.
+- 🔭 I graduated with my B.S. Computer Science.
+- 🌱 I’m am interested in Machine Learning and its applications.
 - ⚡ Fun fact: I love to play Chess. ♞
 
 ### Connect with me:
